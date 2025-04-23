@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mantle Bank
+
+My own mantle bank mock up
 
 ## Getting Started
 
@@ -6,31 +8,38 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Who Uses It?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Young investors in their 20s and 30s, accustomed to mobile and web environments.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Why Do They Use It?
 
-## Learn More
+They prefer a simple and intuitive user experience, favoring accessible banking over complexity.
+There are negative perceptions around blockchain, such as scams, fraud, volatility, and technical complexity. However, by combining central bank-level reliability with an intuitive user experience, it reduces technical complexity and builds a more trustworthy image through reliable data.
+Unlike traditional banks, it connects to cryptocurrency, enabling the pursuit of high returns and instilling pride in being tech-savvy.
 
-To learn more about Next.js, take a look at the following resources:
+## Brand Story
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+In a world where "finance feels complex and untrustworthy," we dream of a banking experience that is simple and reliable. We see money not merely as currency but as a tool for creating freedom and opportunities for adventure.
+We aim not to replace traditional banks but to redefine them based on transparent and secure data.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Brand Message
 
-## Deploy on Vercel
+An adventure for freedom and opportunity.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Core Brand Values
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Simplicity, Trust, Innovation, Adventure.
+
+## Identity
+
+Color: White, gray-tone base with a mantle gradient color.
+Typography: Pretendard.
+Tone & Manner: Understandable even to elementary school students.
+
+## Reference
+
+- https://x.com/dilrong_
+- https://mantle.xyz
