@@ -25,7 +25,7 @@ export function Header() {
             My
           </Link>
           <Link
-            href="/banking"
+            href="/earn"
             className="text-sm font-medium hover:text-foreground/80"
           >
             Earn
